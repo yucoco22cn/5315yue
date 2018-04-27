@@ -12,6 +12,69 @@
       <book>Midnight Rain</book>
       <genre>Fantasy</genre>
       <price>$5.95</price>
-      <publish_date>2000-12-16</publish_date>
+      <publish_date>2001-12-16</publish_date>
+    </data>
+    <data>
+      <author>Corets, Eva</author>
+      <book>Oberon's Legacy</book>
+      <genre>Fantasy</genre>
+      <price>$5.95</price>
+      <publish_date>2001-03-10</publish_date>
+    </data>
+    <data>
+      <author>Corets, Eva</author>
+      <book>The Sundered Grail</book>
+      <genre>Fantasy</genre>
+      <price>$5.95</price>
+      <publish_date>2001-09-10</publish_date>
+    </data>
+    <data>
+      <author>Randall, Cynthia</author>
+      <book>Lover Birds</book>
+      <genre>Romance</genre>
+      <price>$4.95</price>
+      <publish_date>2000-09-02</publish_date>
+    </data>
+    <data>
+      <author>Thurman, Paula</author>
+      <book>Splish Splash</book>
+      <genre>Romance</genre>
+      <price>$4.95</price>
+      <publish_date>2000-11-02</publish_date>
+    </data>
+    <data>
+      <author>Knorr, Stefan</author>
+      <book>Creepy Crawlies</book>
+      <genre>Horror</genre>
+      <price>$4.95</price>
+      <publish_date>2000-12-06</publish_date>
+    </data>
+    <data>
+      <author>Kress, Peter</author>
+      <book>Paradox Lost</book>
+      <genre>Science Fiction</genre>
+      <price>$6.95</price>
+      <publish_date>2000-11-02</publish_date>
+    </data>
+    <data>
+      <author>O'Brien, Tim</author>
+      <book>MSXML3: A Comprehensive Guide</book>
+      <genre>Computer</genre>
+      <price>$36.95</price>
+      <publish_date>2000-12-01</publish_date>
+    </data>
+    <data>
+      <author>O'Brien, Tim</author>
+      <book>Microsoft .NET: The Programming Bible</book>
+      <genre>Computer</genre>
+      <price>$36.95</price>
+      <publish_date>2000-12-09</publish_date>
+    </data>
+    <data>
+      <author>Galos, Mike</author>
+      <book>Visual Studio 7: A Comprehensive Guide</book>
+      <genre>Computer</genre>
+      <price>$49.95</price>
+      <publish_date>2001-04-16</publish_date>
     </data>
   </books>
