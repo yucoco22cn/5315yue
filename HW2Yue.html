@@ -38,8 +38,11 @@
         $('#empTable').dataTable({
             "ajax": "HW2data.js",
             "columns": [
-                {"data": "name"},
-                {"data": "email"}
+                {"data": "author"},
+                {"data": "book"},
+                {"data": "genre"},
+                {"data": "price"},
+                {"data": "publish_date"}
             ]
         });   
     });
